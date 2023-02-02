@@ -4,6 +4,7 @@
 1. Used tensorflow as my project framework.
 2. Took MNIST Dataset.
 3. Used simple Tf.slicer as input data pipeline.
+4. Used keras EfficientNetV2M for the CNN layer.
 
 
 [Drawaback]:
